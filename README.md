@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Node.js example app
+# OpenAI API My Chat - Node.js
 
 This is an example of an AI-powered chat application using the OpenAI API ChatGPT (GPT-3) [quickstart tutorial](https://platform.openai.com/docs/quickstart). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
